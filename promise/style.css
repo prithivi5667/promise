@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#countryScreen {
+  padding: 30px 0px;
+  background-color: #f6f6f6;
+}
+
+h1 {
+  padding: 30px;
+  font-weight: bold;
+}
+
+.card-head {
+  background-color: #061422;
+  color: #eaeaea;
+  padding: 15px;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.col-md-4 {
+  padding-top: 25px;
+}
+.card {
+  border-radius: 5px;
+  border: 1px solid black;
+  background: #ebfeff;
+  background: -webkit-linear-gradient(to top, #ebfeff 0%, #defbff 100%);
+  background: -moz-linear-gradient(to top, #ebfeff 0%, #defbff 100%);
+  background: linear-gradient(to top, #ebfeff 0%, #defbff 100%);
+}
+img {
+  margin-bottom: 16px;
+  width: 90%;
+  height: 150px;
+}
+.btn-primary {
+  background-color: transparent;
+  border-color: #061422;
+  color: #061422;
+  font-weight: 600;
+}
+
+.b-text {
+  font-weight: 600;
+}
